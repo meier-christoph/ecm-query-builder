@@ -4,3 +4,4 @@ target/
 out/
 build/
 logs/
+.gradle/
